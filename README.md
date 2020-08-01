@@ -3,12 +3,13 @@ List of opensource Javascript libraries which you can use for theme development 
 
 [Lightbox](#lightbox)  
 [Carousel](#carousel)  
-[Charts](#charts) 
+[Charts](#charts)  
 [HTML Table](#html-table)  
 [Datetime](#datetime)  
 [Page Scroll](#page-scroll)  
 [Syntax Highlighter](#syntax-highlighter)  
-
+[Maps](#maps)  
+[Parallax](#parallax)  
 
 ## Lightbox
 ### Lightpick [https://wakirin.github.io/Lightpick/](https://wakirin.github.io/Lightpick/)
@@ -83,26 +84,25 @@ Highlight.js is a syntax highlighter written in JavaScript.
 ### Prism [https://prismjs.com/](https://prismjs.com/)
 Prism is a lightweight, extensible syntax highlighter.
 
-### Isotope [https://isotope.metafizzy.co/](https://isotope.metafizzy.co/)
-Filter & sort magical layouts.
+## Maps
+### Leaflet [https://leafletjs.com/](https://leafletjs.com/)
+Opensource JavaScript library for mobile-friendly interactive maps.
 
-### Tether [http://tether.io/](http://tether.io/)
-JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page.
-
+## Parallax
 ### Jarallax [https://github.com/nk-o/jarallax](https://github.com/nk-o/jarallax)
 Smooth parallax scrolling effect for background images, videos.
 
 ### SimpleParallax.js [https://simpleparallax.com/](https://simpleparallax.com/)
 SimpleParallax.js is a very simple JS library that adds parallax animations on any images.
 
+### Isotope [https://isotope.metafizzy.co/](https://isotope.metafizzy.co/)
+Filter & sort magical layouts.
 
-
+### Tether [http://tether.io/](http://tether.io/)
+JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page.
 
 ### Clipboardjs [https://clipboardjs.com/](https://clipboardjs.com/)
 A modern approach to copy text to the clipboard.
-
-### Leaflet [https://leafletjs.com/](https://leafletjs.com/)
-Opensource JavaScript library for mobile-friendly interactive maps.
 
 ### CountUp.js [https://inorganik.github.io/countUp.js/](https://inorganik.github.io/countUp.js/)
 Lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.
