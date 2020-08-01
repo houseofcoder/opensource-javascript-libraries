@@ -1,24 +1,15 @@
 # Opensource Javascript Libraries
 List of opensource Javascript libraries which you can use for theme development for interactive web page designing.
 
-### Popper.js [https://popper.js.org/](https://popper.js.org/)
-Positioning tooltips and popovers made easy.
+[Lightbox](#lightbox)  
+[Carousel](#carousel)  
+[Charts](#charts) 
+[HTML Table](#html-table)  
+[Datetime](#datetime)  
+[Page Scroll](#page-scroll)  
 
-### Typed.js [http://mattboldt.github.io/typed.js/](http://mattboldt.github.io/typed.js/)
-Make interactive typing animation on the webpage.
 
-### Jquery Smart wizard [http://techlaboratory.net/jquery-smartwizard](http://techlaboratory.net/jquery-smartwizard)  
-jQuery Smart Wizard is an accessible step wizard plugin for jQuery. Provides a neat and stylish interface for your forms  
-
-### Ion.RangeSlider [http://ionden.com/a/plugins/ion.rangeSlider/index.html](http://ionden.com/a/plugins/ion.rangeSlider/index.html)
-Responsive range slider plugin
-
-### Flatpickr.js [https://flatpickr.js.org/](https://flatpickr.js.org/)
-Lightweight DateTime picker.
-
-### Moment JS [https://momentjs.com/](https://momentjs.com/)
-A lightweight JavaScript library for parsing, validating, manipulating, and formatting dates.
-
+## Lightbox
 ### Lightpick [https://wakirin.github.io/Lightpick/](https://wakirin.github.io/Lightpick/)
 Lightweight date range picker library.
 
@@ -34,6 +25,7 @@ Custombox is a modern dialog library which is highly configurable and easily sty
 ### Animsition [https://listjs.com/](http://git.blivesta.com/animsition/)
 A simple and easy to use jquery plugin for css animated page transitions.
 
+## Carousel
 ### JQuery lightSlider [http://sachinchoolur.github.io/lightslider/](http://sachinchoolur.github.io/lightslider/)
 JQuery lightSlider is a lightweight responsive Content slider with carousel thumbnails navigation
 
@@ -43,9 +35,7 @@ Touch-enabled jQuery plugin that lets you create a beautiful responsive carousel
 ### Flickity [https://flickity.metafizzy.co/](https://flickity.metafizzy.co/)
 For creating touch, responsive, flickable carousels. The open-source license is designed for you to use Flickity to build open source and personal projects.
 
-### Clipboardjs [https://clipboardjs.com/](https://clipboardjs.com/)
-A modern approach to copy text to the clipboard.
-
+## Charts
 ### Chartjs [https://www.chartjs.org/](https://www.chartjs.org/)
 Simple yet flexible JavaScript charting library.
 
@@ -54,6 +44,33 @@ Interactive javascript chart library
 
 ### Chartist.js [https://gionkunz.github.io/chartist-js/](https://gionkunz.github.io/chartist-js/)
 Chartist.js is a simple responsive charting library built with SVG.
+
+## HTML Table
+### Datatables [https://datatables.net/](https://datatables.net/)
+It is a highly flexible tool, built upon the foundations of progressive enhancement, that adds all of these advanced features to any HTML table.
+
+### List JS [https://listjs.com/](https://listjs.com/)
+Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
+
+## Datetime
+### Ion.RangeSlider [http://ionden.com/a/plugins/ion.rangeSlider/index.html](http://ionden.com/a/plugins/ion.rangeSlider/index.html)
+Responsive range slider plugin
+
+### Flatpickr.js [https://flatpickr.js.org/](https://flatpickr.js.org/)
+Lightweight DateTime picker.
+
+### Moment JS [https://momentjs.com/](https://momentjs.com/)
+A lightweight JavaScript library for parsing, validating, manipulating, and formatting dates.
+
+## Page Scroll
+### Simplebar [https://grsmto.github.io/simplebar/](https://grsmto.github.io/simplebar/)
+Custom scrollbars made simple, lightweight, easy to use, and cross-browser.
+
+### AOS [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
+Javascript library to animate elements on your page as you scroll.
+
+### Custom scrollbar plugin [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
+Highly customizable custom scrollbar jQuery plugin.
 
 ### Isotope [https://isotope.metafizzy.co/](https://isotope.metafizzy.co/)
 Filter & sort magical layouts.
@@ -67,6 +84,12 @@ Smooth parallax scrolling effect for background images, videos.
 ### SimpleParallax.js [https://simpleparallax.com/](https://simpleparallax.com/)
 SimpleParallax.js is a very simple JS library that adds parallax animations on any images.
 
+
+
+
+### Clipboardjs [https://clipboardjs.com/](https://clipboardjs.com/)
+A modern approach to copy text to the clipboard.
+
 ### Leaflet [https://leafletjs.com/](https://leafletjs.com/)
 Opensource JavaScript library for mobile-friendly interactive maps.
 
@@ -79,26 +102,21 @@ Headroom.js is a lightweight, high-performance JS widget (with no dependencies) 
 ### SVGInjector [https://github.com/iconic/SVGInjector](https://github.com/iconic/SVGInjector)
 A fast, caching, dynamic inline SVG DOM injection library
 
-### Simplebar [https://grsmto.github.io/simplebar/](https://grsmto.github.io/simplebar/)
-Custom scrollbars made simple, lightweight, easy to use, and cross-browser.
 
-### AOS [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
-Javascript library to animate elements on your page as you scroll.
+### Popper.js [https://popper.js.org/](https://popper.js.org/)
+Positioning tooltips and popovers made easy.
 
-### Custom scrollbar plugin [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
-Highly customizable custom scrollbar jQuery plugin.
+### Typed.js [http://mattboldt.github.io/typed.js/](http://mattboldt.github.io/typed.js/)
+Make interactive typing animation on the webpage.
+
+### Jquery Smart wizard [http://techlaboratory.net/jquery-smartwizard](http://techlaboratory.net/jquery-smartwizard)  
+jQuery Smart Wizard is an accessible step wizard plugin for jQuery. Provides a neat and stylish interface for your forms  
 
 ### Select2 [https://select2.org/](https://select2.org/)
 Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.
 
 ### Autosize [http://www.jacklmoore.com/autosize/](http://www.jacklmoore.com/autosize/)
 A small, stand-alone script to automatically adjust textarea height.
-
-### Datatables [https://datatables.net/](https://datatables.net/)
-It is a highly flexible tool, built upon the foundations of progressive enhancement, that adds all of these advanced features to any HTML table.
-
-### List JS [https://listjs.com/](https://listjs.com/)
-Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
 
 ### Particles.js [https://github.com/VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js)
 A lightweight JavaScript library for creating particles.
