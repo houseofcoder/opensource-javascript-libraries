@@ -1,7 +1,6 @@
 # Opensource Javascript Libraries
-List of opensource Javascript libraries
+List of opensource Javascript libraries which you can use for theme development for interactive web page designing.
 
-Welcome to the opensource-javascript-libraries wiki!  
 ### Popper.js [https://popper.js.org/](https://popper.js.org/)
 Positioning tooltips and popovers made easy.
 
