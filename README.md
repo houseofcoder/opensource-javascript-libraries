@@ -7,6 +7,7 @@ List of opensource Javascript libraries which you can use for theme development 
 [HTML Table](#html-table)  
 [Datetime](#datetime)  
 [Page Scroll](#page-scroll)  
+[Syntax Highlighter](#syntax-highlighter)  
 
 
 ## Lightbox
@@ -72,6 +73,16 @@ Javascript library to animate elements on your page as you scroll.
 ### Custom scrollbar plugin [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
 Highly customizable custom scrollbar jQuery plugin.
 
+### jQuery.scrollTo [https://github.com/flesler/jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
+Lightweight, cross-browser and highly customizable animated scrolling with jQuery
+
+## Syntax Highlighter 
+### Highlight.js [https://highlightjs.org/](https://highlightjs.org/)
+Highlight.js is a syntax highlighter written in JavaScript.
+
+### Prism [https://prismjs.com/](https://prismjs.com/)
+Prism is a lightweight, extensible syntax highlighter.
+
 ### Isotope [https://isotope.metafizzy.co/](https://isotope.metafizzy.co/)
 Filter & sort magical layouts.
 
@@ -102,7 +113,6 @@ Headroom.js is a lightweight, high-performance JS widget (with no dependencies) 
 ### SVGInjector [https://github.com/iconic/SVGInjector](https://github.com/iconic/SVGInjector)
 A fast, caching, dynamic inline SVG DOM injection library
 
-
 ### Popper.js [https://popper.js.org/](https://popper.js.org/)
 Positioning tooltips and popovers made easy.
 
@@ -126,15 +136,6 @@ Reveal Animations When You Scroll, this library uses animate.css. You may use th
 
 ### Animate.css [https://animate.style/](https://animate.style/)
 Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
-
-### jQuery.scrollTo [https://github.com/flesler/jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
-Lightweight, cross-browser and highly customizable animated scrolling with jQuery
-
-### Highlight.js [https://highlightjs.org/](https://highlightjs.org/)
-Highlight.js is a syntax highlighter written in JavaScript.
-
-### Prism [https://prismjs.com/](https://prismjs.com/)
-Prism is a lightweight, extensible syntax highlighter.
 
 ### Instascan [https://github.com/schmich/instascan](https://github.com/schmich/instascan)
 Real-time webcam-driven HTML5 QR code scanner.
